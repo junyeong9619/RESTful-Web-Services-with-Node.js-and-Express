@@ -18,8 +18,17 @@
   },
   "homepage": "https://github.com/junyeong9619/RESTful-Web-Services-with-Node.js-and-Express#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "express": "^4.16.1",
     "gulp": "^3.9.1",
-    "gulp-nodemon": "^2.2.1"
+    "gulp-mocha": "^4.3.1",
+    "gulp-nodemon": "^2.2.1",
+    "mongoose": "^4.11.14",
+    "should": "^13.1.0",
+    "sinon": "^4.0.0"
+  },
+  "devDependencies": {
+    "gulp-env": "^0.4.0",
+    "supertest": "^3.0.0"
   }
 }
