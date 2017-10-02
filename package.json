@@ -1,0 +1,25 @@
+{
+  "name": "restful-web-services-with-node.js-and-express",
+  "version": "1.0.0",
+  "description": "A lightweight Express server serving truly RESTful services using Node.js, Mongoose, and MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junyeong9619/RESTful-Web-Services-with-Node.js-and-Express.git"
+  },
+  "author": "Lee Jun Yeong <junyeong9619@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junyeong9619/RESTful-Web-Services-with-Node.js-and-Express/issues"
+  },
+  "homepage": "https://github.com/junyeong9619/RESTful-Web-Services-with-Node.js-and-Express#readme",
+  "dependencies": {
+    "express": "^4.16.1",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1"
+  }
+}
